@@ -3,4 +3,5 @@
 
 em aula com Gustavo Guanabara
 
-esta linha foi acrescentada remotamente - eu estava na rua -
+esta linha foi acrescentada remotamente - eu estava na rua - 
+coloquei esta linha pelo github remoto
