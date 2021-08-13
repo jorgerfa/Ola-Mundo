@@ -1,4 +1,4 @@
-# Olá, Mundo!
+# Olá, Mundo! Mundo multifacetas
  primeiro repositório do curso git github
 
 em aula com Gustavo Guanabara
